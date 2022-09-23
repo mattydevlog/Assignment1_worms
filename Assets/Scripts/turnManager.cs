@@ -14,10 +14,6 @@ public class turnManager : MonoBehaviour
     public GameObject Player;
     public GameObject playerTurn;
 
-    void Start()
-    {
-
-    }
 
 
     void Update()
